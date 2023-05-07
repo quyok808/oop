@@ -28,7 +28,6 @@ public class create_pascal_triangle {
 		}
 	}	
 	
-	
 	public static void main(String[] args) {
 		int[] diagonalValues = {1,5,2,0,7,8};
 		int n = diagonalValues.length;
