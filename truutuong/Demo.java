@@ -10,7 +10,8 @@ public class Demo {
 		System.out.println("Tong tien: $" + cf1.tinhGiaTien());
 		
 		System.out.println("gia ban dau: " + cf1.getPrice());
-		cf1.raiseCAFE1().output();
+		cf1.raiseCAFE2();
+		cf1.output();
 		System.out.println("gia sau khi tang: " + cf1.getPrice());
 		
 		System.out.println("Method 1: ");
